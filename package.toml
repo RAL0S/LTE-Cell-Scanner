@@ -1,0 +1,9 @@
+[package_detail]
+name = "LTE-Cell-Scanner"
+description = "OpenCL, SDR, TDD/FDD LTE cell scanner"
+version = "bef6ef4"
+source_url = "https://github.com/JiaoXianjun/LTE-Cell-Scanner"
+license = "AGPL-3.0"
+install_script = "setup.sh"
+install_script_type = "shell"
+
